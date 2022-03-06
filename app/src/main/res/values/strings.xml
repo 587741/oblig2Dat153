@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Oblig2</string>
+    <string name="quiz">Quiz</string>
+    <string name="textview">TextView</string>
+    <string name="add_a_new_person">Add a new person</string>
+    <string name="add_person">Add Person</string>
+    <string name="name">Name</string>
+    <string name="image">Image</string>
+    <string name="library">Library</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="todo">TODO</string>
+    <string name="namelabel">Name</string>
+    <string name="delete">Delete</string>
+    <string name="person_picture">Person picture</string>
+    <string name="home">Home</string>
+    <string name="score">SCORE</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="_0_0">0/0</string>
+    <string name="submit_answer_here">Submit answer here</string>
+    <string name="end_of_quiz">End of quiz!</string>
+    <string name="_10_10">10/10</string>
+    <string name="your_final_score_was">Your final score was:</string>
+    <string name="new_quiz">NEW QUIZ</string>
+    <string name="imageview">imageView</string>
+    <string name="database">Database</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
